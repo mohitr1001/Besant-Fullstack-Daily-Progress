@@ -1,0 +1,17 @@
+.days{
+color: #3C5B6F;
+text-decoration: underline;
+font-family: Arial, Helvetica, sans-serif;
+}
+.list{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+list-style-type:square;
+}
+#nestedList{
+list-style-type: square;
+}
+h1{
+text-decoration: underline;
+font-weight: bolder;
+color: green; /* Shows Specificity of External vs Inline */
+}
